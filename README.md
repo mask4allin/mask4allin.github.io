@@ -16,13 +16,12 @@ No! Just a mask from a simple cotton blend is fine. Use your old t-shirt or your
 
 ![Image](https://pbs.twimg.com/media/ET-dHZMWoAAnFqX?format=png&name=900x900)
 
-### Tell me more
+### Where can I learn more?
 
-1. Here is a thread on Twitter by [@jeremyphoward](twitter.com/jeremyphoward). 
+1. A [collection](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow) of research papers about the effectiveness of masks thanks to [fast.ai](fast.ai) community.
+2. Here is a thread on Twitter by [@jeremyphoward](twitter.com/jeremyphoward). 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please watch the video above for the full explanation. Here&#39;s a quick summary.<br><br>See the light turquoise lines in this chart? See how they&#39;re all pretty flat? Know what they have in common? These folks all wear masks in public! <a href="https://t.co/8IGofjaCRf">pic.twitter.com/8IGofjaCRf</a></p>&mdash; Jeremy #masks4all Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1242894379959889920?ref_src=twsrc%5Etfw">March 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-2. A [collection](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow) of research papers about the effectiveness of masks thanks to [fast.ai](fast.ai) community.
 
 ### Contributions
 
